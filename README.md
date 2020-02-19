@@ -17,7 +17,7 @@ In data is 12 variables.
 * QUAL = −10 ∙ 𝑙𝑜𝑔10[𝑃(𝐴𝐿𝑇 is wrong)] - the higher the better classification,
 * DP - coverage of the reference genome,
 * DP2 - coverage of the reference genome on second level.
-* 𝐺𝑄 = −10 ∙ 𝑙𝑜𝑔10[𝑃(genotype is wrong|𝑆𝑁P)] - the higher the better classification,
+* 𝐺𝑄 = −10 ∙ 𝑙𝑜𝑔10[𝑃(genotype is wrong|SNP)] - the higher the better classification,
 * BEFORE1,2,3 - Three nucleotides before SNPs,
 * BEHIND1,2,3 - Three nucleotides after SNPs,
 ## Technologies 
