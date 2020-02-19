@@ -3,6 +3,7 @@
 * [General info](#general-info)
 * [Data description](#data-description)
 * [Technologies](#technologies)
+* [Sources](#sources)
 ## General info 
 Project made for the needs of the subject Data Analysis in college. I tried to predict invalid SNP (Single Nucleotide Polymorphism) in data I was given with Keras in Python. This was an inbalance data so I used some unusual methods. 
 I shortly described what I was doing in every line, so I think everything is clear and understandable. 
