@@ -11,8 +11,8 @@ If you don't know or don't understand methods I have used, I recommend referring
 ## Data description 
 I was given data with samples of SNP and calculeted which is wrong genotyped by my Professors.
 Data comes from 4 "traditional Danish Red Dairy Cattle" bulls, sequenced by NGS (Illumina) and analyzed by WGS.
-Wrong quality of prediction -> rare event data
-In data is 12 variables. 
+Bad quality of prediction -> rare event data.
+There are 12 variables in the data. 
 * Genotype - our binary variable, 0 - wrong SNP, 1 - good SNP,
 * QUAL = −10 ∙ 𝑙𝑜𝑔10[𝑃(𝐴𝐿𝑇 is wrong)] - the higher the better classification,
 * DP - coverage of the reference genome,
